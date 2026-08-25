@@ -54,4 +54,4 @@ No extra dependencies — download and run.
 ---
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.             
+> This project is shared as-is. All product names and logos belong to their respective owners.              
